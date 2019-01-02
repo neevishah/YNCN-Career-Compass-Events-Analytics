@@ -39,17 +39,17 @@ This event was primarily targeted at 3rd year engineering, cs and rotman student
 ### 2.2 Graphics Branding
 For this event we made something beautiful that tried to be informative but also fun.
 
-![Facebook Banner](./images/zs_banner.jpg)
+![Facebook Banner](./zs_banner.jpg)
 
 
 
 ## 3.0 Results
 
 ### 3.1 Facebook Snapshot
-![Facebook Analytics Summary](./images/facebook_highlevel.png)
+![Facebook Analytics Summary](./facebook_highlevel.png)
 
 ### 3.2 Attendee Demographics
-Challenge! Finish this doc (remember to add in all our cool ass graphs + some analysis). Echo asks if we want to show what we are doing in R or no (supress output). Knit to export to PDF.
+(remember to add in all our graphs + some analysis). Echo asks if we want to show what we are doing in R or no (supress output). Knit to export to PDF.
 ```{r echo=FALSE}
 disc_breakdown
 attendee_plot
